@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b59fd3-42d3-4aee-82a0-c78ad8dc14b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number05_StringEndsWith/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number06_MonkeyCounter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number06_MonkeyCounter/MonkeyCounterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Testing$StringAndsWithTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Testing.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmashWordsTest">
+  <component name="RunManager" selected="JUnit.MonkeyCounterTest">
     <configuration name="KataExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -61,18 +65,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OppositeExampleTests.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MonkeyCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number01_OppositeNumber.*" />
+          <option name="PATTERN" value="Number06_MonkeyCounter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Number01_OppositeNumber" />
-      <option name="MAIN_CLASS_NAME" value="Number01_OppositeNumber.OppositeExampleTests" />
-      <option name="METHOD_NAME" value="tests" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Number06_MonkeyCounter" />
+      <option name="MAIN_CLASS_NAME" value="Number06_MonkeyCounter.MonkeyCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MonkeyCounterTest" />
         <item itemvalue="JUnit.SmashWordsTest" />
         <item itemvalue="JUnit.KataExampleTests" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Testing" />
-        <item itemvalue="JUnit.OppositeExampleTests.tests" />
       </list>
     </recent_temporary>
   </component>
