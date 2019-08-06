@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b59fd3-42d3-4aee-82a0-c78ad8dc14b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number06_MonkeyCounter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number06_MonkeyCounter/MonkeyCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number07_EasyWallpaper/EasyWallpaperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number07_EasyWallpaper/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Testing$StringAndsWithTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number05_StringEndsWith/Testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number06_MonkeyCounter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codewars/Number06_MonkeyCounter/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MonkeyCounterTest">
+  <component name="RunManager" selected="JUnit.EasyWallpaperTest">
+    <configuration name="EasyWallpaperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Number07_EasyWallpaper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Number07_EasyWallpaper" />
+      <option name="MAIN_CLASS_NAME" value="Number07_EasyWallpaper.EasyWallpaperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KataExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -95,21 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Number01_OppositeNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Number01_OppositeNumber" />
-      <option name="MAIN_CLASS_NAME" value="Number01_OppositeNumber.Testing" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EasyWallpaperTest" />
         <item itemvalue="JUnit.MonkeyCounterTest" />
         <item itemvalue="JUnit.SmashWordsTest" />
         <item itemvalue="JUnit.KataExampleTests" />
         <item itemvalue="JUnit.Tests" />
-        <item itemvalue="JUnit.Testing" />
       </list>
     </recent_temporary>
   </component>
