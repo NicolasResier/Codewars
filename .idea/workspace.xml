@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b59fd3-42d3-4aee-82a0-c78ad8dc14b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number08_CantSleepCountSheep/CountSheepTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number08_CantSleepCountSheep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number09_GrowthOfPopulation/GrowthOfPopulationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number09_GrowthOfPopulation/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number07_EasyWallpaper/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codewars/Number07_EasyWallpaper/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountSheepTest">
+  <component name="RunManager" selected="JUnit.GrowthOfPopulationTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number09_GrowthOfPopulation.Main" />
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Number09_GrowthOfPopulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountSheepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -78,58 +90,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GrowthOfPopulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number03_HowGoodAreYouReally.*" />
+          <option name="PATTERN" value="Number09_GrowthOfPopulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Number03_HowGoodAreYouReally" />
-      <option name="MAIN_CLASS_NAME" value="Number03_HowGoodAreYouReally.KataExampleTests" />
+      <option name="PACKAGE_NAME" value="Number09_GrowthOfPopulation" />
+      <option name="MAIN_CLASS_NAME" value="Number09_GrowthOfPopulation.GrowthOfPopulationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonkeyCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GrowthOfPopulationTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number06_MonkeyCounter.*" />
+          <option name="PATTERN" value="Number09_GrowthOfPopulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Number06_MonkeyCounter" />
-      <option name="MAIN_CLASS_NAME" value="Number06_MonkeyCounter.MonkeyCounterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmashWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Number04_SentenceSmash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Number04_SentenceSmash" />
-      <option name="MAIN_CLASS_NAME" value="Number04_SentenceSmash.SmashWordsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Number09_GrowthOfPopulation" />
+      <option name="MAIN_CLASS_NAME" value="Number09_GrowthOfPopulation.GrowthOfPopulationTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GrowthOfPopulationTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GrowthOfPopulationTest.test3" />
         <item itemvalue="JUnit.CountSheepTest" />
         <item itemvalue="JUnit.EasyWallpaperTest" />
-        <item itemvalue="JUnit.MonkeyCounterTest" />
-        <item itemvalue="JUnit.SmashWordsTest" />
-        <item itemvalue="JUnit.KataExampleTests" />
       </list>
     </recent_temporary>
   </component>
