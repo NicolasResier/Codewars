@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b59fd3-42d3-4aee-82a0-c78ad8dc14b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number12_LostWithoutAMap/LostWithoutAMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number13_GrasshopperSummation/Grasshopper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Codewars/Number12_LostWithoutAMap/LostWithoutAMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codewars/Number12_LostWithoutAMap/LostWithoutAMap.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LostWithoutAMap">
+  <component name="RunManager" selected="Application.Grasshopper">
+    <configuration name="Grasshopper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number13_GrasshopperSummation.Grasshopper" />
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Number13_GrasshopperSummation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LostWithoutAMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Number12_LostWithoutAMap.LostWithoutAMap" />
       <module name="Codewars" />
@@ -68,21 +82,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountSheepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Number08_CantSleepCountSheep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Number08_CantSleepCountSheep" />
-      <option name="MAIN_CLASS_NAME" value="Number08_CantSleepCountSheep.CountSheepTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Grasshopper" />
         <item itemvalue="Application.LostWithoutAMap" />
         <item itemvalue="JUnit.GrowthOfPopulationTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.GrowthOfPopulationTest.test3" />
-        <item itemvalue="JUnit.CountSheepTest" />
       </list>
     </recent_temporary>
   </component>
