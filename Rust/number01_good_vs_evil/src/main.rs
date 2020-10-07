@@ -40,4 +40,5 @@ fn good_vs_evil(good: &str, evil: &str) -> String {
     } else {
         return String::from("Problem with battle calculations")
     };
+
   }
